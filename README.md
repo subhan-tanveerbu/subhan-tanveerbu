@@ -10,10 +10,15 @@
 
 🚀 Featured Projects
 Netflix Content Analysis & Personalized Genre Explorer – Built a recommendation and analytics platform to explore content trends and user preferences.
+
 News Topic Classifier using BERT – Developed an NLP-based text classification system using BERT Transformers.
+
 Multimodal Housing Price Prediction – Combined property images and structured data to improve price prediction accuracy.
+
 General Health Chatbot (Mistral) – Created an AI-powered healthcare chatbot using a Large Language Model.
+
 End-to-End Customer Churn Prediction Pipeline – Designed a complete ML workflow from preprocessing to model evaluation.
+
 Heart Disease Prediction System – Built a healthcare-focused machine learning solution for disease risk prediction.
 
 # 📊 GitHub Stats:
@@ -26,5 +31,7 @@ Heart Disease Prediction System – Built a healthcare-focused machine learning 
 🤝 Connect With Me
 
 📍 Islamabad, Pakistan
+
 📧 Email: subhanss634@gmail.com
+
 💼 LinkedIn: linkedin.com/in/subhan-tanveer-254035261
