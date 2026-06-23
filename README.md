@@ -1,9 +1,38 @@
 <h1 align="center">🚀 Subhan Tanveer</h1>
 <h3 align="center">AI/ML Engineer | Python Developer | Data Analyst</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subhan-tanveerbu&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
-## 📊 GitHub Overview
+# 🧠 ABOUT ME
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+## 👨‍💻 Who I Am
+AI/ML Engineer passionate about building intelligent systems using  
+Machine Learning, Deep Learning, and LLMs.
+
+</td>
+<td align="center" width="50%">
+
+## 🎯 What I Do
+- 🤖 Machine Learning & AI Models  
+- 🧠 LLM & NLP Applications  
+- 📊 Data Analysis & Visualization  
+- ⚙️ Backend APIs (FastAPI)  
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GITHUB OVERVIEW
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=subhan-tanveerbu&show_icons=true&theme=dark" height="170"/>
@@ -12,79 +41,103 @@
 
 ---
 
-## 📌 Popular Repositories
+# 💻 TECH STACK
 
+## 🧑‍💻 Programming Languages
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
+</p>
 
-## 🚀 Featured AI/ML Projects Portfolio
+## 🧠 AI / ML / Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
 
-### 🧾 AI Resume Screening System (NLP + ML)
-🔹 Built an intelligent system that analyzes resumes against job descriptions  
-🔹 Uses Natural Language Processing + classification models  
-🔹 Outputs match score and candidate classification  
+## 🗄️ Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql" />
+</p>
 
----
-
-### ❤️ Heart Disease Prediction System
-🔹 ML model to predict risk of heart disease  
-🔹 Uses patient medical data and classification algorithms  
-🔹 Focus on healthcare AI applications  
-
----
-
-### 🏠 House Price Prediction ML
-🔹 Regression-based model for predicting property prices  
-🔹 Data preprocessing + feature engineering + model tuning  
+## 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-### 🧠 Multimodal Housing Price Prediction
-🔹 Advanced AI project using BOTH images + tabular data  
-🔹 Combines CNN + ML regression models  
-🔹 Real-world multimodal AI system  
+# 🚀 FEATURED PROJECTS
+
+<table>
+
+<tr>
+<td>
+
+### 🧾 AI Resume Screening System
+- NLP + ML based resume analyzer  
+- Matches job description with candidates  
+- Outputs score & classification  
+
+</td>
+<td>
+
+### ❤️ Heart Disease Prediction
+- ML classification model  
+- Medical dataset analysis  
+- Risk prediction system  
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🏠 House Price Prediction
+- Regression-based ML model  
+- Feature engineering + tuning  
+- Real estate prediction system  
+
+</td>
+<td>
+
+### 🧠 Multimodal Housing AI
+- CNN + tabular ML combined  
+- Image + data fusion model  
+- Advanced AI system  
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📰 News Classification (BERT)
+- Transformer-based NLP model  
+- High accuracy text classification  
+- Modern deep learning pipeline  
+
+</td>
+<td>
+
+### 👥 Customer Churn Prediction
+- End-to-end ML pipeline  
+- Business analytics focused  
+- Deployment-ready structure  
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-### 📰 News Topic Classification (BERT / Transformers)
-🔹 NLP project using transformer-based BERT model  
-🔹 Classifies news into categories with high accuracy  
-🔹 Demonstrates modern deep learning NLP skills  
+# 🧠 LLM & AI PROJECTS
+
+- 🧠 General Health Chatbot (Mistral LLM)  
+- 🌍 GenZ Life Simulator (Creative AI System)  
 
 ---
 
-### 👥 End-to-End Customer Churn Prediction Pipeline
-🔹 Full ML pipeline from data cleaning to deployment logic  
-🔹 Feature engineering + model evaluation  
-🔹 Business-focused predictive analytics  
-
----
-
-### 🧠 General Health Chatbot (Mistral LLM)
-🔹 LLM-powered chatbot using Mistral  
-🔹 Handles general health-related queries  
-🔹 Demonstrates LLM integration skills  
-
----
-
-### 📊 Exploratory Data Analysis Projects
-- Iris Dataset Visualization & Insights  
-- Netflix Content Analysis & Recommendation Exploration  
-
----
-
-### 🌍 GenZ Life Simulator
-🔹 Creative simulation-based AI project  
-🔹 Focus on logic design + interactive modeling  
-
----
-
-## 📌 Focus Areas
-✔ Machine Learning (Regression, Classification)  
-✔ Deep Learning (CNN, Transformers)  
-✔ NLP & LLM Integration  
-✔ Data Analysis & Visualization  
-✔ End-to-End AI Pipelines  
-## 📈 Contribution Activity
+# 📈 ACTIVITY GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan-tanveerbu&theme=react-dark&hide_border=true" />
@@ -92,43 +145,32 @@
 
 ---
 
-## 🧠 About Me
+# 🌱 CURRENTLY LEARNING
 
-I am an **AI/ML Engineer** passionate about building intelligent systems using data, machine learning, and automation.
-
-I enjoy working on:
-- 🤖 Machine Learning Models
-- 🧠 LLM-based Applications
-- 📊 Data Analysis & Visualization
-- ⚙️ Backend APIs using FastAPI
+- Deep Learning (CNNs, Transformers)  
+- LLM Prompt Engineering  
+- FastAPI Deployment  
+- MLOps & Model Deployment  
 
 ---
 
-## 🌱 Currently Learning
-
-- Deep Learning (CNNs, RNNs)
-- LLM Prompt Engineering
-- FastAPI + Backend Deployment
-- MLOps & Model Deployment
-
----
-
-## 💻 Tech Stack
+# 🌐 CONNECT WITH ME
 
 <p align="center">
-Python • C++ • C • FastAPI • MySQL • Pandas • NumPy • Scikit-learn • Matplotlib • Git
+
+<a href="https://www.linkedin.com/in/subhan-tanveer-254035261">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:subhanss634@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/subhan-tanveer-254035261  
-- 📧 Email: mailto:subhanss634@gmail.com  
-
----
-
-## ⚡ GitHub Stats Footer
+# ⚡ GITHUB SUMMARY
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhan-tanveerbu&theme=github_dark" />
