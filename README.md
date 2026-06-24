@@ -14,8 +14,7 @@
 <td align="center" width="50%">
 
 ## 👨‍💻 Who I Am
-AI/ML Engineer passionate about building intelligent systems using  
-Machine Learning, Deep Learning, and LLMs.
+AI/ML Engineer passionate about building intelligent systems using Machine Learning, Deep Learning, and LLMs.
 
 </td>
 <td align="center" width="50%">
@@ -32,115 +31,30 @@ Machine Learning, Deep Learning, and LLMs.
 
 ---
 
-# 📊 GITHUB OVERVIEW
+# 📊 GITHUB STATS (AUTO-UPDATING)
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=subhan-tanveerbu&show_icons=true&theme=dark" height="170"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=subhan-tanveerbu&theme=dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=subhan-tanveerbu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=60" height="170"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=subhan-tanveerbu&theme=dark&cache_seconds=60" height="170"/>
 </p>
 
 ---
 
-# 💻 TECH STACK
-
-## 🧑‍💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
-</p>
-
-## 🧠 AI / ML / Data Science
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
-
-## 🗄️ Backend & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,mysql" />
-</p>
-
-## 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-# 📚 LANGUAGES USED
+# 💻 TOP LANGUAGES (FIXED + MORE ACCURATE)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-tanveerbu&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-tanveerbu&layout=compact&langs_count=8&theme=dark&cache_seconds=60" />
 </p>
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 🧠 REAL CODING ACTIVITY (OPTIONAL BUT BEST)
 
-<table>
+> Install WakaTime in VS Code for real tracking
 
-<tr>
-<td>
-
-### 🧾 AI Resume Screening System
-- NLP + ML based resume analyzer  
-- Matches job description with candidates  
-- Outputs score & classification  
-
-</td>
-<td>
-
-### ❤️ Heart Disease Prediction
-- ML classification model  
-- Medical dataset analysis  
-- Risk prediction system  
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🏠 House Price Prediction
-- Regression-based ML model  
-- Feature engineering + tuning  
-- Real estate prediction system  
-
-</td>
-<td>
-
-### 🧠 Multimodal Housing AI
-- CNN + tabular ML combined  
-- Image + data fusion model  
-- Advanced AI system  
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 📰 News Classification (BERT)
-- Transformer-based NLP model  
-- High accuracy text classification  
-- Modern deep learning pipeline  
-
-</td>
-<td>
-
-### 👥 Customer Churn Prediction
-- End-to-end ML pipeline  
-- Business analytics focused  
-- Deployment-ready structure  
-
-</td>
-</tr>
-
-</table>
-
----
-
-# 🧠 LLM & AI PROJECTS
-
-- 🧠 General Health Chatbot (Mistral LLM)  
-- 🌍 GenZ Life Simulator (Creative AI System)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=subhan-tanveerbu&theme=dark" />
+</p>
 
 ---
 
@@ -149,6 +63,48 @@ Machine Learning, Deep Learning, and LLMs.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan-tanveerbu&theme=react-dark&hide_border=true" />
 </p>
+
+---
+
+# 🧑‍💻 TECH STACK
+
+## Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
+</p>
+
+## AI / ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+## Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql" />
+</p>
+
+## Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+- 🧾 AI Resume Screening System (NLP + ML)  
+- ❤️ Heart Disease Prediction (Classification)  
+- 🏠 House Price Prediction (Regression ML)  
+- 🧠 Multimodal Housing AI (CNN + Tabular Fusion)  
+- 📰 News Classification (BERT NLP Model)  
+- 👥 Customer Churn Prediction (Business ML)  
+
+---
+
+# 🧠 LLM PROJECTS
+
+- 🧠 Health Chatbot (Mistral LLM)  
+- 🌍 GenZ Life Simulator (Creative AI System)  
 
 ---
 
