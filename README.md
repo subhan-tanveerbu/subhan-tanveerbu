@@ -1,115 +1,189 @@
-<h1 align="center">Subhan Tanveer</h1>
+<h1 align="center">🚀 Subhan Tanveer</h1>
+<h3 align="center">AI/ML Engineer | Python Developer | Data Analyst</h3>
 
 <p align="center">
-AI Engineer • Machine Learning • Generative AI • Python Developer
+  <img src="https://komarev.com/ghpvc/?username=subhan-tanveerbu&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-BS Artificial Intelligence Student | Open to AI/ML Internships
+  <img src="https://img.shields.io/badge/Open%20to-AI%20Internships-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-ML%20Roles-blue?style=for-the-badge" />
 </p>
 
 ---
 
-## About Me
+# 🧠 ABOUT ME
 
-I'm a BS Artificial Intelligence student passionate about building intelligent systems that solve real-world problems.
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-My interests include:
+## 👨‍💻 Who I Am
 
-- Machine Learning
-- Deep Learning
+AI/ML Engineer passionate about building intelligent systems using Machine Learning, Deep Learning, Generative AI, NLP, and Large Language Models (LLMs).
+
+Currently pursuing a BS in Artificial Intelligence and actively building real-world AI solutions through research, development, and open-source contributions.
+
+</td>
+
+<td align="center" width="50%">
+
+## 🎯 What I Do
+
+- 🤖 Machine Learning & AI Models
+- 🧠 LLM & NLP Applications
+- 📊 Data Analysis & Visualization
+- ⚙️ Backend APIs (FastAPI)
+- 🚀 AI Automation Solutions
+- 📈 Data-Driven Decision Making
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subhan-tanveerbu&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="170"/>
+  
+  <img src="https://github-readme-streak-stats.demolab.com?user=subhan-tanveerbu&theme=dark" height="170"/>
+</p>
+
+---
+
+# 💻 TOP LANGUAGES
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-tanveerbu&layout=compact&langs_count=8&theme=dark" />
+</p>
+
+---
+
+# 📈 ACTIVITY GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan-tanveerbu&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+# 📊 GITHUB SUMMARY
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhan-tanveerbu&theme=github_dark" />
+</p>
+
+---
+
+# 🧑‍💻 TECH STACK
+
+## Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
+</p>
+
+## AI / ML
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+## Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql" />
+</p>
+
+## Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+### 🧾 AI Resume Screening System
+NLP-powered intelligent candidate ranking and resume analysis system.
+
+### ❤️ Heart Disease Prediction
+Machine Learning classification model for healthcare risk prediction.
+
+### 🏠 House Price Prediction
+Regression-based predictive analytics application for property valuation.
+
+### 🧠 Multimodal Housing AI
+Deep Learning model combining image and tabular data for housing price prediction.
+
+### 📰 News Classification System
+BERT-powered NLP model for automated news categorization.
+
+### 👥 Customer Churn Prediction
+Business Intelligence and Machine Learning solution for customer retention.
+
+---
+
+# 🧠 LLM PROJECTS
+
+### 🩺 Health Chatbot
+Medical assistant powered by Mistral LLM and Retrieval-Augmented Generation concepts.
+
+### 🌍 GenZ Life Simulator
+Interactive AI-powered simulation leveraging Generative AI and Large Language Models.
+
+---
+
+# 🌱 CURRENTLY LEARNING
+
+- Deep Learning (CNNs & Transformers)
 - Generative AI
-- Large Language Models (LLMs)
-- Natural Language Processing
-- Data Analytics
-- AI Automation
-
-Currently seeking internships and entry-level opportunities in Artificial Intelligence, Machine Learning, Data Science, and Python Development.
-
----
-
-## Tech Stack
-
-### Languages
-
-- Python
-- C++
-- C
-
-### AI & Machine Learning
-
-- Scikit-Learn
-- TensorFlow
-- PyTorch
-- Pandas
-- NumPy
-
-### Backend & Databases
-
-- FastAPI
-- MySQL
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-
----
-
-## Featured Projects
-
-### AI Resume Screening System
-NLP-based system for automated resume ranking and candidate matching.
-
-### Heart Disease Prediction
-Machine Learning model for healthcare risk prediction.
-
-### House Price Prediction
-Regression-based predictive analytics application.
-
-### Multimodal Housing AI
-Fusion of image and tabular data using Deep Learning.
-
-### News Classification System
-BERT-powered NLP classification model.
-
-### Customer Churn Prediction
-Business-focused predictive analytics solution.
-
----
-
-## Current Focus
-
-- Deep Learning
-- Transformers
-- LLM Applications
-- Prompt Engineering
+- LLM Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI Systems
 - FastAPI Deployment
-- MLOps
-- RAG Systems
+- MLOps & Model Deployment
+- AI Automation Workflows
 
 ---
 
-## GitHub Statistics
+# 🎯 CURRENT GOALS
+
+- 🚀 Contribute to Open Source AI Projects
+- 🧠 Build Production-Ready AI Applications
+- 📚 Master Deep Learning & Transformers
+- 💼 Secure AI/ML Internship Opportunities
+- 🌍 Collaborate with Global Developer Communities
+
+---
+
+# 🌐 CONNECT WITH ME
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=subhan-tanveerbu&show_icons=true&theme=github_dark" height="170"/>
 
-<img src="https://github-readme-streak-stats.demolab.com?user=subhan-tanveerbu&theme=github-dark" height="170"/>
+<a href="https://www.linkedin.com/in/subhan-tanveer-254035261">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:subhanss634@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
+
 </p>
+
+---
+
+# ⚡ CONTRIBUTION STREAK
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-tanveerbu&layout=compact&theme=github_dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=subhan-tanveerbu&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## Connect With Me
-
-- LinkedIn: www.linkedin.com/in/subhan-tanveer-254035261
-- Email: subhanss634@gmail.com
-
----
-
-> Building intelligent systems today to solve tomorrow's problems.
+<p align="center">
+  <i>"Building intelligent systems today to solve tomorrow's problems."</i>
+</p>
