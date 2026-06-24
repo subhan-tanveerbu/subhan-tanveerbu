@@ -64,6 +64,13 @@ Machine Learning, Deep Learning, and LLMs.
 </p>
 
 ---
+# 📚 LANGUAGES USED
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-tanveerbu&layout=compact&theme=dark" />
+</p>
+
+---
 
 # 🚀 FEATURED PROJECTS
 
