@@ -31,7 +31,7 @@ AI/ML Engineer passionate about building intelligent systems using Machine Learn
 
 ---
 
-# 📊 GITHUB STATS (AUTO-UPDATING)
+# 📊 GITHUB STATS 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subhan-tanveerbu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=60" height="170"/>
@@ -40,7 +40,7 @@ AI/ML Engineer passionate about building intelligent systems using Machine Learn
 
 ---
 
-# 💻 TOP LANGUAGES (FIXED + MORE ACCURATE)
+# 💻 TOP LANGUAGES
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-tanveerbu&layout=compact&langs_count=8&theme=dark&cache_seconds=60" />
@@ -48,15 +48,7 @@ AI/ML Engineer passionate about building intelligent systems using Machine Learn
 
 ---
 
-# 🧠 REAL CODING ACTIVITY (OPTIONAL BUT BEST)
 
-> Install WakaTime in VS Code for real tracking
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=subhan-tanveerbu&theme=dark" />
-</p>
-
----
 
 # 📈 ACTIVITY GRAPH
 
