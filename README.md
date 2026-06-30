@@ -60,7 +60,7 @@ AI/ML Engineer • Python Developer • Data Analyst
 ## 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-tanveerbu&layout=compact&theme=github_dark&langs_count=8&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-tanveerbu&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
 </p>
 
 # 📈 Contribution Graph
