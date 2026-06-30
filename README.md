@@ -1,5 +1,8 @@
 <h1 align="center">🚀 Subhan Tanveer</h1>
-<h3 align="center">AI/ML Engineer | Python Developer | Data Analyst</h3>
+
+<h3 align="center">
+AI/ML Engineer • Python Developer • Data Analyst
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=subhan-tanveerbu&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -7,125 +10,195 @@
 
 ---
 
-# 🧠 ABOUT ME
+# 🧠 About Me
 
-<table align="center">
+<table>
 <tr>
-<td align="center" width="50%">
 
-## 👨‍💻 Who I Am
-AI/ML Engineer passionate about building intelligent systems using Machine Learning, Deep Learning, and LLMs.
+<td width="50%" valign="top">
 
-</td>
-<td align="center" width="50%">
+### 👨‍💻 Who I Am
 
-## 🎯 What I Do
-- 🤖 Machine Learning & AI Models  
-- 🧠 LLM & NLP Applications  
-- 📊 Data Analysis & Visualization  
-- ⚙️ Backend APIs (FastAPI)  
+- 🎓 Artificial Intelligence Undergraduate
+- 🤖 Passionate about AI, Machine Learning & LLMs
+- 🐍 Python Developer
+- 📊 Data Analysis & Visualization Enthusiast
+- ⚡ Always building practical AI projects
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🎯 What I Do
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 💬 NLP & LLM Applications
+- 📈 Data Analytics
+- ⚙️ FastAPI Backend Development
+- 🚀 AI Automation
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-# 📊 GITHUB STATS
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhan-tanveerbu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=60" height="170"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=subhan-tanveerbu&theme=dark&cache_seconds=60" height="170"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=subhan-tanveerbu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=subhan-tanveerbu&theme=github-dark"/>
+
 </p>
 
 ---
 
-# 💻 TOP LANGUAGES 
+# 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-tanveerbu&layout=compact&langs_count=8&theme=dark&cache_seconds=60" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-tanveerbu&layout=compact&theme=github_dark"/>
+
 </p>
 
 ---
 
-
-# 📈 ACTIVITY GRAPH
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan-tanveerbu&theme=react-dark&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan-tanveerbu&theme=github-compact&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🧑‍💻 TECH STACK
+# 🛠 Tech Stack
 
-## Languages
+## Programming Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c"/>
+
 </p>
 
-## AI / ML
+---
+
+## AI / Machine Learning
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn"/>
+
 </p>
 
-## Backend
+---
+
+## Backend & Database
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,mysql" />
+
+<img src="https://skillicons.dev/icons?i=fastapi,mysql"/>
+
 </p>
+
+---
 
 ## Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
 </p>
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 🚀 Featured Projects
 
-- 🧾 AI Resume Screening System (NLP + ML)  
-- ❤️ Heart Disease Prediction (Classification)  
-- 🏠 House Price Prediction (Regression ML)  
-- 🧠 Multimodal Housing AI (CNN + Tabular Fusion)  
-- 📰 News Classification (BERT NLP Model)  
-- 👥 Customer Churn Prediction (Business ML)  
+
+### 🤖 AI Agent with Tool Calling
+Built an AI agent using Python that intelligently selects and executes tools like Calculator, File Reader, and Weather API using LLM function/tool calling.
+
+### 🧾 AI Resume Screening System
+NLP-based resume ranking system using Machine Learning.
+
+### 🤖 AI Resume Screening System
+NLP-based resume ranking system using Machine Learning.
+
+### ❤️ Heart Disease Prediction
+Classification model for predicting heart disease.
+
+### 🏠 House Price Prediction
+Regression model using Machine Learning.
+
+### 🧠 Multimodal Housing AI
+CNN + Tabular Data Fusion for intelligent house prediction.
+
+### 📰 News Classification
+BERT-powered NLP classification model.
+
+### 👥 Customer Churn Prediction
+Business analytics ML project for churn prediction.
 
 ---
 
-# 🧠 LLM PROJECTS
+# 🧠 LLM Projects
 
-- 🧠 Health Chatbot (Mistral LLM)  
-- 🌍 GenZ Life Simulator (Creative AI System)  
-
----
-
-# 🌱 CURRENTLY LEARNING
-
-- Deep Learning (CNNs, Transformers)  
-- LLM Prompt Engineering  
-- FastAPI Deployment  
-- MLOps & Model Deployment  
+- 💬 Health Chatbot (Mistral LLM)
+- 🌍 GenZ Life Simulator
+- 🤖 AI Agents with Tool Calling
+- 📝 Prompt Engineering Projects
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 🌱 Currently Learning
+
+- Deep Learning
+- Transformers
+- LLM Engineering
+- FastAPI Deployment
+- MLOps
+- AI Agents
+- RAG Systems
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/subhan-tanveer-254035261">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/subhan-tanveerbu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:subhanss634@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# ⚡ GITHUB SUMMARY
+# 📈 GitHub Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhan-tanveerbu&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhan-tanveerbu&theme=github_dark"/>
+
 </p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
