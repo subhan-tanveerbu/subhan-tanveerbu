@@ -139,11 +139,7 @@ Feel free to explore my repositories or connect with me!
 
 ---
 
-## 🌐 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-tanveerbu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=subhan-tanveerbu&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 📊 GitHub Stats
 
