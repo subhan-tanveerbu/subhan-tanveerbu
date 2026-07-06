@@ -32,7 +32,7 @@ I'm currently preparing for AI and software engineering internships while expand
 - C
 - HTML *(Basics)*
 - Java *(Basics)*
-- SQL *(Basics)*
+- SQL 
 
 ### AI & Data Science
 - NumPy
