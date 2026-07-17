@@ -24,35 +24,6 @@ I'm currently preparing for AI and software engineering internships while expand
 
 ---
 
-## 💻 Technical Skills
-
-### Programming Languages
-- Python
-- C++
-- C
-- HTML *(Basics)*
-- Java *(Basics)*
-- SQL 
-
-### AI & Data Science
-- NumPy
-- Pandas
-- Scikit-learn
-- OpenCV
-- Matplotlib
-- Jupyter Notebook
-
-### Tools & Technologies
-- Git
-- GitHub
-- Visual Studio Code
-- Google Colab
-- MySQL
-- Anaconda
-- Canva
-- PowerShell
-
----
 
 ## 📂 Projects
 
